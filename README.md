@@ -59,7 +59,7 @@ npx create-nuxt-app mintbean-nuxt
 
 ## Setup Questions
 
-```
+```bash
 ? Project name: (mintbean-nuxt)
 ? Programming language: JavaScript
 ? Package manager: Npm
@@ -92,7 +92,7 @@ git branch -M main
 
 Create a repo on GitHub called `mintbean-nuxt` and then enter these commands:
 
-```
+```bash
 git remote add origin https://github.com/ajcwebdev/mintbean-nuxt.git
 git remote -v
 git push -u origin main
