@@ -189,7 +189,7 @@ git push -u origin main
   command = "nuxt generate"
 ```
 
-# Commit changes with a very descriptive commit message
+## Commit changes with a very descriptive commit message
 
 ```bash
 git add .
