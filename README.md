@@ -26,7 +26,7 @@ yarn create nuxt-app mintbean-nuxt
 
 ## Setup Questions
 
-```
+```bash
 ? Project name: (mintbean-nuxt)
 ? Programming language: JavaScript
 ? Package manager: Yarn
