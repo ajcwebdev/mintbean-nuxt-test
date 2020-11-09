@@ -8,8 +8,7 @@
   * Create Nuxt App
   * Setup Questions
   * Navigate into project and start dev server
-* Commit to GitHub
-  * Create mintbean-nuxt repo on GitHub
+* Commit to Git
 * Nuxt App
   * Delete boilerplate
   * Home Page
@@ -83,7 +82,7 @@ code .
 npm run dev
 ```
 
-# Commit to GitHub
+# Commit to Git
 
 ```bash
 git add .
@@ -91,7 +90,7 @@ git commit -m "First commit"
 git branch -M main
 ```
 
-## Create mintbean-nuxt repo on GitHub
+Create a mintbean-nuxt repo on GitHub and then enter these commands:
 
 ```
 git remote add origin https://github.com/ajcwebdev/mintbean-nuxt.git
