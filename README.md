@@ -1,3 +1,21 @@
+# Outline
+
+* Yarn
+  * Create Nuxt App
+  * Setup Questions
+  * Navigate into project and start dev server
+* NPM
+  * Create Nuxt App
+  * Setup Questions
+  * Navigate into project and start dev server
+* Commit to GitHub
+* Nuxt App
+  * Delete boilerplate
+  * Home Page
+  * About Page
+  * Navigation Bar in Layouts
+  * `netlify.toml` for Deploying to Netlify
+
 # Yarn
 
 ## Create Nuxt App
@@ -64,7 +82,7 @@ code .
 npm run dev
 ```
 
-## Commit to GitHub
+# Commit to GitHub
 
 ```bash
 git add .
@@ -75,7 +93,9 @@ git remote -v
 git push -u origin main
 ```
 
-## Delete the following
+# Nuxt App
+
+## Delete boilerplate
 * `assets`
 * `middleware`
 * `plugins`
