@@ -90,7 +90,7 @@ git commit -m "First commit"
 git branch -M main
 ```
 
-Create a repo on GitHub called `mintbean-nuxt` and then enter these commands:
+Create a repo on GitHub called `mintbean-nuxt` and then enter these commands with your own GitHub username in place of `ajcwebdev`:
 
 ```bash
 git remote add origin https://github.com/ajcwebdev/mintbean-nuxt.git
