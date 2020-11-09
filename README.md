@@ -3,13 +3,13 @@
 ## Create Nuxt App
 
 ```bash
-yarn create nuxt-app ajcwebdev-create-nuxt-app
+yarn create nuxt-app mintbean-nuxt
 ```
 
 ## Setup Questions
 
 ```
-? Project name: (ajcwebdev-create-nuxt-app)
+? Project name: (mintbean-nuxt)
 ? Programming language: JavaScript
 ? Package manager: Yarn
 ? UI framework: None
@@ -26,7 +26,7 @@ yarn create nuxt-app ajcwebdev-create-nuxt-app
 ## Navigate into project and start dev server
 
 ```bash
-cd ajcwebdev-create-nuxt-app
+cd mintbean-nuxt
 code .
 yarn dev
 ```
@@ -36,13 +36,13 @@ yarn dev
 ## Create Nuxt App
 
 ```bash
-npx create-nuxt-app ajcwebdev-create-nuxt-app
+npx create-nuxt-app mintbean-nuxt
 ```
 
 ## Setup Questions
 
 ```
-? Project name: (ajcwebdev-create-nuxt-app)
+? Project name: (mintbean-nuxt)
 ? Programming language: JavaScript
 ? Package manager: Npm
 ? UI framework: None
@@ -59,7 +59,7 @@ npx create-nuxt-app ajcwebdev-create-nuxt-app
 ## Navigate into project and start dev server
 
 ```bash
-cd ajcwebdev-create-nuxt-app
+cd mintbean-nuxt
 code .
 npm run dev
 ```
@@ -70,7 +70,7 @@ npm run dev
 git add .
 git commit -m "First commit"
 git branch -M main
-git remote add origin https://github.com/ajcwebdev/ajcwebdev-create-nuxt-app.git
+git remote add origin https://github.com/ajcwebdev/mintbean-nuxt.git
 git remote -v
 git push -u origin main
 ```
