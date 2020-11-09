@@ -1,21 +1,20 @@
 <template>
   <div class="container">
+
     <div>
-      <Logo />
-      <h1 class="title">
-        mintbean-nuxt-test
-      </h1>
+      <h1 class="title">ajcwebdev</h1>
+
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://dev.to/ajcwebdev"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          Blog
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/ajcwebdev"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
@@ -23,7 +22,9 @@
           GitHub
         </a>
       </div>
+
     </div>
+
   </div>
 </template>
 
